@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ABHINANDAN KUMAR</h1>
 <h3 align="center">Data Scientist And Data Analyst</h3>
 
-<img align="right" alt="coding"width="400" src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif">
+<img align="right" alt="coding"width="400" src="https://user-images.githubusercontent.com/71542496/135060605-259f5229-45d1-4d33-a2b8-1da37d178b5f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinandanroy0003&label=Profile%20views&color=0e75b6&style=flat" alt="abhinandanroy0003" /> </p>
 
